@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['jrc_5fwifi_2ec_0',['JRC_WiFi.c',['../_j_r_c___wi_fi_8c.html',1,'']]],
+  ['jrc_5fwifi_2eh_1',['JRC_WiFi.h',['../_j_r_c___wi_fi_8h.html',1,'']]],
+  ['jrc_5fwifi_5fap_5fcustom_5fmac_2',['JRC_WIFI_AP_CUSTOM_MAC',['../secrets_8h.html#abc6199629fdd7041d2171340b6eee91a',1,'secrets.h']]],
+  ['jrc_5fwifi_5fap_5finfo_3',['JRC_WiFi_AP_Info',['../_j_r_c___wi_fi_8c.html#a929d088ce56a898e729721f0b1d2f375',1,'JRC_WiFi_AP_Info(wifi_ap_record_t *apinfo):&#160;JRC_WiFi.c'],['../_j_r_c___wi_fi_8h.html#a929d088ce56a898e729721f0b1d2f375',1,'JRC_WiFi_AP_Info(wifi_ap_record_t *apinfo):&#160;JRC_WiFi.c']]],
+  ['jrc_5fwifi_5fap_5fstarted_4',['JRC_WIFI_AP_STARTED',['../_j_r_c___wi_fi_8h.html#ac4b96d56104dc79d5422f8da82bd2821',1,'JRC_WiFi.h']]],
+  ['jrc_5fwifi_5fbegin_5',['JRC_WiFi_Begin',['../_j_r_c___wi_fi_8c.html#a6f1fb6b5ffe1c9be393fad4bd0ce3117',1,'JRC_WiFi_Begin():&#160;JRC_WiFi.c'],['../_j_r_c___wi_fi_8h.html#a6f1fb6b5ffe1c9be393fad4bd0ce3117',1,'JRC_WiFi_Begin():&#160;JRC_WiFi.c']]],
+  ['jrc_5fwifi_5fbegin_5fap_6',['JRC_WiFi_Begin_AP',['../_j_r_c___wi_fi_8c.html#a01191ca2e3e7fa33b28a6f2fe3c498db',1,'JRC_WiFi_Begin_AP():&#160;JRC_WiFi.c'],['../_j_r_c___wi_fi_8h.html#a01191ca2e3e7fa33b28a6f2fe3c498db',1,'JRC_WiFi_Begin_AP():&#160;JRC_WiFi.c']]],
+  ['jrc_5fwifi_5fbegin_5fsta_5fap_7',['JRC_WiFi_Begin_STA_AP',['../_j_r_c___wi_fi_8c.html#ac8efc2813f2d3afc3820b68bdc61ebd6',1,'JRC_WiFi_Begin_STA_AP():&#160;JRC_WiFi.c'],['../_j_r_c___wi_fi_8h.html#ac8efc2813f2d3afc3820b68bdc61ebd6',1,'JRC_WiFi_Begin_STA_AP():&#160;JRC_WiFi.c']]],
+  ['jrc_5fwifi_5fconnected_8',['JRC_WIFI_CONNECTED',['../_j_r_c___wi_fi_8h.html#a3a6b47ddede18096e465bffa78f662a9',1,'JRC_WiFi.h']]],
+  ['jrc_5fwifi_5fdisconnected_9',['JRC_WIFI_DISCONNECTED',['../_j_r_c___wi_fi_8h.html#a5570189c9663a9c046d31a9036f9d454',1,'JRC_WiFi.h']]],
+  ['jrc_5fwifi_5fget_5fstatus_10',['JRC_WiFi_Get_Status',['../_j_r_c___wi_fi_8c.html#a29b963ba34e2656fe87d99b484a71fc4',1,'JRC_WiFi_Get_Status():&#160;JRC_WiFi.c'],['../_j_r_c___wi_fi_8h.html#a29b963ba34e2656fe87d99b484a71fc4',1,'JRC_WiFi_Get_Status():&#160;JRC_WiFi.c']]],
+  ['jrc_5fwifi_5fgot_5fip_11',['JRC_WIFI_GOT_IP',['../_j_r_c___wi_fi_8h.html#a8214fc3667c7b700c714056e90b0c014',1,'JRC_WiFi.h']]],
+  ['jrc_5fwifi_5fnot_5fstarted_12',['JRC_WIFI_NOT_STARTED',['../_j_r_c___wi_fi_8h.html#ac1b2f36d6e60d9918816f8f12002f045',1,'JRC_WiFi.h']]],
+  ['jrc_5fwifi_5fscan_13',['JRC_WiFi_Scan',['../_j_r_c___wi_fi_8c.html#aab77024030a05445cd3d95aa3fb280e6',1,'JRC_WiFi_Scan(void *ap_found_info):&#160;JRC_WiFi.c'],['../_j_r_c___wi_fi_8h.html#aab77024030a05445cd3d95aa3fb280e6',1,'JRC_WiFi_Scan(void *ap_found_info):&#160;JRC_WiFi.c']]],
+  ['jrc_5fwifi_5fsta_5fcustom_5fmac_14',['JRC_WIFI_STA_CUSTOM_MAC',['../secrets_8h.html#aeec29e4c5a8f4c7cf0da3476c54facfa',1,'secrets.h']]],
+  ['jrc_5fwifi_5fsta_5fgateway_15',['JRC_WiFi_STA_Gateway',['../_j_r_c___wi_fi_8c.html#a3e8b197d985d2dc35390fe656949b35d',1,'JRC_WiFi_STA_Gateway(char *gateWay):&#160;JRC_WiFi.c'],['../_j_r_c___wi_fi_8h.html#a3e8b197d985d2dc35390fe656949b35d',1,'JRC_WiFi_STA_Gateway(char *gateWay):&#160;JRC_WiFi.c']]],
+  ['jrc_5fwifi_5fsta_5fip_5faddress_16',['JRC_WiFi_STA_IP_Address',['../_j_r_c___wi_fi_8c.html#a6daf4ab0a5812380297fb26bd776f206',1,'JRC_WiFi_STA_IP_Address(char *ipAdd):&#160;JRC_WiFi.c'],['../_j_r_c___wi_fi_8h.html#a6daf4ab0a5812380297fb26bd776f206',1,'JRC_WiFi_STA_IP_Address(char *ipAdd):&#160;JRC_WiFi.c']]],
+  ['jrc_5fwifi_5fsta_5fmac_5faddress_17',['JRC_WiFi_STA_MAC_Address',['../_j_r_c___wi_fi_8c.html#a7dcaa3188c7e2f31627d45424238b073',1,'JRC_WiFi_STA_MAC_Address(char *mac):&#160;JRC_WiFi.c'],['../_j_r_c___wi_fi_8h.html#a7dcaa3188c7e2f31627d45424238b073',1,'JRC_WiFi_STA_MAC_Address(char *mac):&#160;JRC_WiFi.c']]],
+  ['jrc_5fwifi_5fsta_5fsubnet_5fmask_18',['JRC_WiFi_STA_Subnet_Mask',['../_j_r_c___wi_fi_8c.html#aa65f2db3d8c5904cd75976955813dbd6',1,'JRC_WiFi_STA_Subnet_Mask(char *snMask):&#160;JRC_WiFi.c'],['../_j_r_c___wi_fi_8h.html#aa65f2db3d8c5904cd75976955813dbd6',1,'JRC_WiFi_STA_Subnet_Mask(char *snMask):&#160;JRC_WiFi.c']]],
+  ['jrc_5fwifi_5fstarted_19',['JRC_WIFI_STARTED',['../_j_r_c___wi_fi_8h.html#a6d67240b527c8512f72a4d3c05b5796e',1,'JRC_WiFi.h']]],
+  ['jrc_5fwifi_5fstatus_5ft_20',['JRC_WiFi_Status_t',['../_j_r_c___wi_fi_8h.html#a7c3776629bf5b024d4dc02d6c1f087db',1,'JRC_WiFi.h']]],
+  ['jrc_5fwifi_5fstop_21',['JRC_WiFi_Stop',['../_j_r_c___wi_fi_8c.html#a755d3dec815102aabf1f273e8023e37d',1,'JRC_WiFi_Stop():&#160;JRC_WiFi.c'],['../_j_r_c___wi_fi_8h.html#a755d3dec815102aabf1f273e8023e37d',1,'JRC_WiFi_Stop():&#160;JRC_WiFi.c']]],
+  ['jrc_5fwifi_5fuse_5fram_5fstorage_22',['JRC_WIFI_USE_RAM_STORAGE',['../_j_r_c___wi_fi_8h.html#ac156169c73aecf1e3c5e9eba0d86540b',1,'JRC_WiFi.h']]]
+];
